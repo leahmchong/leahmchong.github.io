@@ -19,7 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, thank you for stopping by! I am a `design researcher` currently working in the [Ideation Lab](http://ideation.mit.edu/) (PI: Dr. Maria Yang) at Massachusetts Institute of Technology. Prior to MIT, I received a PhD and MS both in Mechanical Engineering at Carnegie Mellon University (Advisors: Dr. Jonathan Cagan and Dr. Kenneth Kotovsky) and a BS in Mechanical Engineering at Rice University.
+Hi, thank you for stopping by! 
+
+I am a `design researcher` currently working in the [Ideation Lab at Massachusetts Institute of Technology](http://ideation.mit.edu/)(PI: Dr. Maria Yang). Prior to MIT, I received a PhD and MS both in Mechanical Engineering at `Carnegie Mellon University` (Advisors: Dr. Jonathan Cagan and Dr. Kenneth Kotovsky) and a BS in Mechanical Engineering at `Rice University`.
 
 My research primarily focuses on `human-computer collaboration` in engineering design. I am interested in understanding how the integration of computational tools/agents in the engineering design process affects the way `designers think, feel, and make creative decisions`, a.k.a. design. I also explore opportunities for human designers to contribute effectively to the collaboration to promote `human-centered design`. 
 
