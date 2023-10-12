@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, thank you for stopping by! I am a `design researcher` currently working in the [Ideation Lab](http://ideation.mit.edu/) (PI: Dr. Maria Yang) at Massachusetts Institute of Technology. Prior to MIT, I received a PhD and MS both in Mechanical Engineering at Carnegie Mellon University (Advisors: Dr. Jonathan Cagan and Dr. Kenneth Kotovsky) and a BS in Mechanical Engineering at Rice University.
 
-My research primarily focuses on `human-computer collaboration` in engineering design. I am interested in understanding how the integration of computational tools/agents affect the way `designers think, feel, and make creative decisions`, a.k.a. design. I also explore opportunities for human designers to contribute effectively to the collaboration to promote `human-centered design`. 
+My research primarily focuses on `human-computer collaboration` in engineering design. I am interested in understanding how the integration of computational tools/agents in the engineering design process affects the way `designers think, feel, and make creative decisions`, a.k.a. design. I also explore opportunities for human designers to contribute effectively to the collaboration to promote `human-centered design`. 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
