@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: 
+description: People's Perception of AI's Design Capabilities
+img: assets/img/5.jpg
 redirect: https://unsplash.com
 importance: 3
 category: work

@@ -2,11 +2,11 @@
 layout: page
 title: research
 permalink: /research/
-# description: A growing collection of my research projects.
+description: These are my primary topics of research. A full list of publications can be found under the publications tab.
 nav: true
 nav_order: 2
 # display_categories: [work, fun]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->

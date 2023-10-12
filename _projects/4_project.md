@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
+title: 
+description: Identifying Latent User Needs with Computational Support
+img: assets/img/9.jpg
+importance: 4
 category: fun
 ---
 

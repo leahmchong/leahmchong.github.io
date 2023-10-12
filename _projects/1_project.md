@@ -1,8 +1,8 @@
 ---
 layout: page
 title: 1
-description: Dynamic Confidence of Designers During AI-Assisted Decision-Making
-img: assets/img/1.jpg
+description: Understanding Designers' Trust and Acceptance of AI
+img: assets/img/4.jpg
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
