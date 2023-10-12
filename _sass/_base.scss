@@ -1029,8 +1029,9 @@ nav[data-toggle="toc"] {
 
 .featured-posts {
   a {
-    color: var(--global-text-color-light);
+    color: var(--global-text-color);
     text-decoration: none;
+    font-size: 0.5rem;
 
     .card-text {
       overflow: hidden;

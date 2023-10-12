@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: 1
+description: Dynamic Confidence of Designers During AI-Assisted Decision-Making
+img: assets/img/1.jpg
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
@@ -18,7 +18,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/1.jpg
     ---
 
 <div class="row">
