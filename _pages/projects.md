@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: These are my primary topics of research. A full list of publications can be found under the publications tab.
+description: These are my ongoing topics of research. A full list of publications can be found under the publications tab.
 nav: true
 nav_order: 2
 # display_categories: [work, fun]
