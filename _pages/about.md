@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I am a `design researcher` at Massachusetts Institute of Technology, working in the [Ideation Lab](http://ideation.mit.edu/) (PI: [Dr. Maria Yang](https://meche.mit.edu/people/faculty/MCYANG@MIT.EDU)). Prior to MIT, I received a PhD and MS both in Mechanical Engineering at Carnegie Mellon University (Advisors: [Dr. Jonathan Cagan](https://www.meche.engineering.cmu.edu/directory/bios/cagan-jonathan.html) and [Dr. Kenneth Kotovsky](https://www.cmu.edu/dietrich/psychology/directory/emeritus/kotovsky-kenneth.html)) and a BS in Mechanical Engineering at Rice University.
+Hi, I am a `design researcher` at Massachusetts Institute of Technology, working in the [Ideation Lab](http://ideation.mit.edu/) (PI: Dr. Maria Yang). Prior to MIT, I received a PhD and MS both in Mechanical Engineering at Carnegie Mellon University (Advisors: Dr. Jonathan Cagan and Dr. Kenneth Kotovsky) and a BS in Mechanical Engineering at Rice University.
 
 My research primarily focuses on `human-AI collaboration` in engineering design. I am interested in: <br>&nbsp;&nbsp;&nbsp;**1)** Understanding how the integration of computational tools/agents in the engineering design process affects the way **designers think, feel, and make creative decisions**, <br>&nbsp;&nbsp;&nbsp;**2)** Exploring opportunities for complementary partnership between human designers and AI to enable **effective and human-centered design**.
 
