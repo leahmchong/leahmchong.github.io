@@ -270,7 +270,7 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
-scholar1:
+scholar:
 
   last_name: [Chong]
   first_name: [Leah, L.]
