@@ -2,7 +2,7 @@
 layout: page
 title: 
 description: Identifying Latent User Needs with Computational Support
-img: assets/img/9.jpg
+img: assets/img/7.jpg
 importance: 4
 category: fun
 ---
