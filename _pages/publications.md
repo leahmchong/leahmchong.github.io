@@ -11,13 +11,13 @@ nav_order: 2
 **Journal Articles**
 <div class="publications">
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
+{% bibliography -f {{ site.scholar2.bibliography }} %}
 
 </div>
 
 **Peer-Reviewed Conference Papers**
 <div class="publications">
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
+{% bibliography -f {{ site.scholar1.bibliography }} %}
 
 </div>
