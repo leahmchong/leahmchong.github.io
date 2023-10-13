@@ -10,15 +10,11 @@ nav_order: 2
 ---
 ##### <span style="color:purple">Journal Articles</span>
 <div class="publications">
-
 {% bibliography --file journals %}
-
 </div>
 
 ---
 ##### <span style="color:purple">Peer-Reviewed Conference Papers</span>
 <div class="publications">
-
 {% bibliography --file papers %}
-
 </div>
