@@ -2,7 +2,7 @@
 layout: page
 title: 
 description: Achieving Qualitative Design Goals with AI
-img: assets/img/10.jpg
+img: assets/img/6.jpg
 importance: 5
 category: fun
 ---

@@ -4,7 +4,7 @@ title: research
 permalink: /research/
 description: These are my ongoing topics of research. A full list of publications can be found under the publications tab.
 nav: true
-nav_order: 3
+nav_order: 5
 # display_categories: [work, fun]
 horizontal: true
 ---
