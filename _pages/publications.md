@@ -7,15 +7,16 @@ nav: true
 nav_order: 2
 ---
 <!-- _pages/publications.md -->
-
-**Journal Articles**
+---
+##### <span style="color:purple">Journal Articles</span>
 <div class="publications">
 
 {% bibliography --file journals %}
 
 </div>
 
-**Peer-Reviewed Conference Papers**
+---
+##### <span style="color:purple">Peer-Reviewed Conference Papers</span>
 <div class="publications">
 
 {% bibliography --file papers %}
