@@ -273,9 +273,9 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 scholar:
 
   last_name: [Chong]
-  first_name: [Leah]
+  first_name: [Leah, L.]
 
-  style: mla
+  style: apa
   locale: en
 
   source: /_bibliography/
