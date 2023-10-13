@@ -1,34 +1,50 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Hu":
+  - firstname: ["Mo", "M."]
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Goucher-Lambert":
+  - firstname: ["Kosa", "K."]
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Zhang":
+  - firstname: ["Guanglu", "G."]
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Cagan":
+  - firstname: ["Jon", "J."]
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Kotovsky":
+  - firstname: ["Kenneth", "K."]
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Raina":
+  - firstname: ["Ayush", "A."]
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Saadi":
+  - firstname: ["Jana", "J."]
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Yang":
+  - firstname: ["Maria", "M."]
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+# "Rosen":
+#   - firstname: ["Nathan", "N."]
+#     url: https://en.wikipedia.org/wiki/Nathan_Rosen
+
+# "Bach": 
+#   - firstname: ["Johann Sebastian", "J. S."]
+#     url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+
+#   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
+#     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+
+# "Przibram":
+#   - firstname: ["Karl"]
+#     url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+
+# "Schrödinger":
+#   - firstname: ["Erwin"]
+#     url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+
+# "Lorentz":
+#   - firstname: ["Hendrik Antoon"]
+#     url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+
+# "Planck":
+#   - firstname: ["Max"]
+#     url: https://en.wikipedia.org/wiki/Max_Planck
