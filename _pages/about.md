@@ -25,7 +25,7 @@ My research primarily focuses on `human-AI collaboration` in engineering design.
 <br><br>
 
 ##### <span style="color:purple"> Starting Spring 2025, I will be joining [the Walker Department of Mechanical Engineeirng at UT Austin](https://www.me.utexas.edu/) as an assistant professor. </span>
-**I am actively seeking motivated students (undergrad, MS, PhD) to join my research group.** If you are interested in joining, please email me at **leah.chong@austin.utexas.edu** including the following information: <br> * Specific descriptions of the research idea you have/would like to work on that relates to my research area <br> * The position you are seeking and whether you are seeking a funded or unfunded position
+**I am actively seeking motivated students (undergrad, MS, PhD) to join my research group.** If you are interested in joining, please email me at **[leah.chong@austin.utexas.edu](leah.chong@austin.utexas.edu)** including the following information: <br> * Your up-to-date CV <br> * Specific descriptions of the research idea you have/would like to work on that relates to my research area <br> * The position you are seeking and whether you are seeking a funded or unfunded position
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
