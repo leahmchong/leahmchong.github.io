@@ -23,6 +23,8 @@ Hi, I am a `design researcher` at Massachusetts Institute of Technology, working
 
 My research primarily focuses on `human-AI collaboration` in engineering design. I am interested in: <br>&nbsp;&nbsp;&nbsp;**1)** Understanding how the integration of computational tools/agents in the engineering design process affects the way **designers think, feel, and make creative decisions**, <br>&nbsp;&nbsp;&nbsp;**2)** Exploring opportunities for complementary partnership between human designers and AI to enable **effective and human-centered design**.
 
+`In Spring 2025, I will be joining the Department of Mechanical Engineeirng at UT Austin as an assistant professor. I am actively seeking motivated students (undergrad, MS, PhD) to join my research group. If you are interested in joining, please contact me at **leah.chong@austin.utexas.edu** with the following information: <br> - Be as specific as possible about a research idea you have/would like to work on that relates to what my group does. If your email appears copy pasted/generic it will not receive a response. <br> - Indicate the position you are seeking in the lab and whether you are seeking a funded or unfunded position.`
+
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
