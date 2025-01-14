@@ -19,13 +19,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I am a `design researcher` at Massachusetts Institute of Technology, working in the [Ideation Lab](http://ideation.mit.edu/) (PI: Dr. Maria Yang). Prior to MIT, I received a PhD and MS both in Mechanical Engineering at Carnegie Mellon University (Advisors: Dr. Jonathan Cagan and Dr. Kenneth Kotovsky) and a BS in Mechanical Engineering at Rice University.
+Hi, I am an Assistant Professor in the Walker ]Department of Mechanical Engineering at UT Austin](https://www.me.utexas.edu/). Prior to UT, I was a postdoctoral researcher at Massachusetts Institute of Technology, working in the [Ideation Lab](http://ideation.mit.edu/) (PI: Dr. Maria Yang). I received a PhD and MS both in Mechanical Engineering at Carnegie Mellon University (Advisors: Dr. Jonathan Cagan and Dr. Kenneth Kotovsky) and a BS in Mechanical Engineering at Rice University.
 
 My research primarily focuses on `human-AI collaboration` in engineering design. I am interested in: <br>&nbsp;&nbsp;&nbsp;**1)** Understanding how the integration of computational tools/agents in the engineering design process affects the way **designers think, feel, and make creative decisions**, <br>&nbsp;&nbsp;&nbsp;**2)** Exploring opportunities for complementary partnership between human designers and AI to enable **effective and human-centered design**.
 <br><br>
 
-##### <span style="color:purple"> Starting Spring 2025, I will be joining [the Walker Department of Mechanical Engineering at UT Austin](https://www.me.utexas.edu/) as an assistant professor. </span>
-**I am actively seeking motivated students (undergrad, MS, PhD) to join my research group.** If you are interested in joining, please email me at **leah.chong@austin.utexas.edu** including the following information: <br> * Your up-to-date CV <br> * Specific descriptions of the research idea you have/would like to work on that relates to my research area <br> * The position you are seeking and whether you are seeking a funded or unfunded position
+<!-- ##### <span style="color:purple"> Starting Spring 2025, I will be joining [the Walker Department of Mechanical Engineering at UT Austin](https://www.me.utexas.edu/) as an assistant professor. </span> -->
+**I am seeking motivated students (undergrad, MS, PhD) to join my research group.** If you are interested in joining, please email me at **leah.chong@austin.utexas.edu** including the following information: <br> * Your up-to-date CV <br> * Specific descriptions of the research idea you have/would like to work on that relates to my research area <br> * The position you are seeking and whether you are seeking a funded or unfunded position
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
